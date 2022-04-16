@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Validation_Exp_6</string>
+    <string name="enter_first_value">Enter first value</string>
+    <string name="enter_second_value">Enter second value</string>
+    <string name="validate">Validate</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="welcome">welcome</string>
+    <string name="login">login</string>
+
+
+</resources>
